@@ -47,11 +47,11 @@
 
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/Akki-soni/Mini-Calendar-Web.git>
+   git clone <https://github.com/Akki-soni/Coming-Soon-Page-Web.git>
    ```
 2. Open the project folder:
    ```bash
-   cd Mini-Calender-Web
+   cd Coming-Soon-Page-Web
    ```
 3. Open index.html in any web browser
 
