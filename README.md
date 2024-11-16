@@ -37,7 +37,7 @@
 
 ## 🌟 Screenshots
 
-![Coming-Soon-Page_Screenshot](/_Screenshot.png)
+![Coming-Soon-Page_Screenshot](/C-S-P_Screenshot.png)
 
 ## 🔗 Live Demo
 
