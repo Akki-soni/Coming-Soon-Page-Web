@@ -31,19 +31,19 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML**: For the structure of the calendar.
-- **CSS**: For styling and layout of the calendar.
-- **JavaScript**: For dynamic functionality like updating months, displaying dates, and highlighting the current day.
+- **HTML5**: Structure of the page.
+- **CSS3**: Styling and animations.
+- **JavaScript**: Countdown timer and interactive elements.
 
 ## 🌟 Screenshots
 
-![Form-Validation_Screenshot](/M-C_Screenshot.png)
+![Form-Validation_Screenshot](/_Screenshot.png)
 
 ## 🔗 Live Demo
 
 [View Live Demo]()
 
-## How to Use
+## 🚀 How to Use
 
 1. Clone this repository:
    ```bash
@@ -54,6 +54,17 @@
    cd Mini-Calender-Web
    ```
 3. Open index.html in any web browser
+
+## 🚀 How to Use
+
+1. Modify the `countdown` JavaScript function to set the correct date and time for your event or launch.
+
+## 🚀 Countdown Function Example
+
+```javascript
+// Example countdown date setup in JavaScript
+const countdownDate = new Date("Dec 31, 2024 23:59:59").getTime();
+```
 
 ## 🤝 Contributing
 
