@@ -37,7 +37,7 @@
 
 ## 🌟 Screenshots
 
-![Form-Validation_Screenshot](/_Screenshot.png)
+![Coming-Soon-Page_Screenshot](/_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -91,6 +91,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Thank You
 
-Thank you for exploring the Mini-Calender! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
+Thank you for exploring the Coming-Soon-Page! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
 
 </div>
