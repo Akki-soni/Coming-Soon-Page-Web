@@ -41,7 +41,7 @@
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://coming-soon-page-web.vercel.app/)
 
 ## 🚀 How to Use
 
